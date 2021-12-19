@@ -18,6 +18,7 @@ hstop = 0.1
 # Is ball in air?
 freefall = True
 
+# bounciness
 rho = 0.75
 t = 1
 tau = 0.1
